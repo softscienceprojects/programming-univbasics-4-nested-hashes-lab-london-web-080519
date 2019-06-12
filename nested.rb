@@ -83,7 +83,7 @@ def adding_matz
         }
      }
 
-  programmer_hash[:yukihiro_matsumoto] = "values"
+  programmer_hash[:yukihiro_matsumoto] = "strings"
 end
 
 def changing_alan
